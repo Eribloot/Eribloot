@@ -5,9 +5,8 @@
 - If you haven't checked out my general bio on my profile, I'm interested in cooking, coffee brewing, and programming to name a few things.
     I've retained a bit about a few of the languages I've studied from my time in college, primarily Java and C++!
 
-- Right now, I'm not quite sure what I'd like to study to work with professionally, in all honesty. Everyone has to start somewhere-- so for now, I'm focusing on web development!
-    As of typing this up, I have studied the essentials of web development on the frontend and a bit of the backend; I have worked with Javascript, HTML5/CSS3, and a little PHP,
-    and have also learned the ReactJs, and I am currently studying Typescript and Angular!
+- Right now, I'm focusing on web development!
+    As of typing this up, I have studied the essentials of web development on the frontend and a bit of the backend; I have worked with Javascript,             HTML5/CSS3, and a little PHP, and have also learned the ReactJs, and I am currently studying Typescript and Angular!
     
 - You can reach me by email if you would like to reach out about anything! Seriously, anything. We can talk about the difference between
     whole coffee beans and pre-ground beans. 
